@@ -1,7 +1,7 @@
 {
-  "name": "node-text2wave",
+  "name": "text2wave",
   "version": "1.0.0",
-  "description": "use festival's text2wave via nodejs pipes",
+  "description": "use festival's text2wave via nodejs streams",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
